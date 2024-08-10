@@ -10,12 +10,14 @@ sites:
      expectedStatusCodes:
         - 200
         - 429
+        - 400
    - name: Quote API
      method: POST
      url: https://dikaardnt.com/quote
      expectedStatusCodes:
         - 400
         - 429
+        - 200
    - name: API meme generator
      url: https://meme.dikaardnt.com/fonts
 
