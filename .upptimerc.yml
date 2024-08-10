@@ -11,8 +11,8 @@ sites:
         - 200
         - 429
    - name: Quote API
-     url: https://dikaardnt.com/quote
      method: POST
+     url: https://dikaardnt.com/quote
      expectedStatusCodes:
         - 400
         - 429
