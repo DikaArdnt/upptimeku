@@ -40,7 +40,7 @@
     "url": "https://dikaardnt.com/quote",
     "icon": "https://icons.duckduckgo.com/ip3/dikaardnt.com.ico",
     "slug": "quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 58,
     "timeMonth": 56,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "API meme generator",
