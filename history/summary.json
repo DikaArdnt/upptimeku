@@ -22,37 +22,39 @@
     "url": "https://dikaardnt.com/api/server",
     "icon": "https://icons.duckduckgo.com/ip3/dikaardnt.com.ico",
     "slug": "simple-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 69,
-    "timeWeek": 70,
-    "timeMonth": 67,
-    "timeYear": 67,
-    "dailyMinutesDown": {}
+    "time": 66,
+    "timeDay": 60,
+    "timeWeek": 68,
+    "timeMonth": 66,
+    "timeYear": 66,
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "Quote API",
     "url": "https://dikaardnt.com/quote",
     "icon": "https://icons.duckduckgo.com/ip3/dikaardnt.com.ico",
     "slug": "quote-api",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 50,
+    "timeDay": 52,
     "timeWeek": 55,
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2024-08-22": 11
+      "2024-08-22": 0
     }
   },
   {
