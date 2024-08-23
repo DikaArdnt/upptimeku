@@ -62,17 +62,19 @@
     "url": "https://meme.dikaardnt.com/fonts",
     "icon": "https://icons.duckduckgo.com/ip3/meme.dikaardnt.com.ico",
     "slug": "api-meme-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 154,
-    "timeWeek": 199,
-    "timeMonth": 195,
-    "timeYear": 195,
-    "dailyMinutesDown": {}
+    "time": 199,
+    "timeDay": 213,
+    "timeWeek": 209,
+    "timeMonth": 199,
+    "timeYear": 199,
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   }
 ]
