@@ -18,8 +18,8 @@ sites:
         - 400
         - 429
         - 200
-   - name: API meme generator
-     url: https://meme.dikaardnt.com/fonts
+   - name: Hisoka Bot Hosting
+     url: https://hisoka.net/api
 
 status-website:
    # Add your custom domain name, or remove the `cname` line if you don't have a domain
