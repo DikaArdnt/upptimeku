@@ -13,7 +13,7 @@ sites:
         - 400
    - name: Quote API
      method: POST
-     url: https://dikaardnt.com/quote
+     url: https://dikaardnt.com/api/maker/quote
      expectedStatusCodes:
         - 400
         - 429
