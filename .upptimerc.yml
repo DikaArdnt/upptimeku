@@ -5,7 +5,7 @@ repo: upptimeku # The name of this repository
 sites:
    - name: Dika Ardnt Site
      url: https://dikaardnt.com
-   - name: Simple APIs
+   - name: REST API
      url: https://dikaardnt.com/api/server
      expectedStatusCodes:
         - 200
@@ -18,7 +18,7 @@ sites:
         - 400
         - 429
         - 200
-   - name: Hisoka Bot Hosting
+   - name: WhatsApp Bot Hosting
      url: https://hisoka.net/api
 
 status-website:
