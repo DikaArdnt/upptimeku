@@ -11,6 +11,7 @@ sites:
         - 200
         - 429
         - 400
+        - 404
    - name: Quote API
      method: POST
      url: https://dikaardnt.com/api/maker/quote
@@ -20,6 +21,11 @@ sites:
         - 200
    - name: WhatsApp Bot Hosting
      url: https://hisoka.net/api
+     expectedStatusCodes:
+        - 400
+        - 429
+        - 200
+        - 404
 
 status-website:
    # Add your custom domain name, or remove the `cname` line if you don't have a domain
