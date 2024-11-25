@@ -28,19 +28,19 @@
     "url": "https://dikaardnt.com/api/server",
     "icon": "https://icons.duckduckgo.com/ip3/dikaardnt.com.ico",
     "slug": "rest-api",
-    "status": "down",
-    "uptime": "98.19%",
-    "uptimeDay": "46.58%",
-    "uptimeWeek": "92.37%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.19%",
-    "time": 149,
-    "timeDay": 816,
-    "timeWeek": 357,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "98.17%",
+    "uptimeDay": "45.90%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
+    "time": 146,
+    "timeDay": 660,
+    "timeWeek": 328,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-11-25": 769
+      "2024-11-25": 779
     }
   },
   {
