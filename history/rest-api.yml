@@ -1,7 +1,7 @@
 url: https://dikaardnt.com/api/server
-status: down
-code: 502
-responseTime: 32
-lastUpdated: 2024-12-22T16:23:18.433Z
+status: up
+code: 200
+responseTime: 128
+lastUpdated: 2024-12-22T16:38:04.463Z
 startTime: 2024-10-27T03:30:55.639Z
 generator: Upptime <https://github.com/upptime/upptime>
