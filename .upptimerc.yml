@@ -6,7 +6,7 @@ sites:
    - name: Dika Ardnt Site
      url: https://dikaardnt.com
    - name: REST API
-     url: https://dikaardnt.com/api/server
+     url: https://api.dikaardnt.com
      expectedStatusCodes:
         - 200
         - 429
@@ -14,7 +14,7 @@ sites:
         - 404
    - name: Quote API
      method: POST
-     url: https://dikaardnt.com/api/maker/quote
+     url: https://api.dikaardnt.com/maker/quote
      expectedStatusCodes:
         - 400
         - 429
