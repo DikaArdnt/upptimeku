@@ -1,7 +1,7 @@
 url: https://api.dikaardnt.com/maker/quote
-status: down
-code: 404
-responseTime: 64
-lastUpdated: 2025-01-31T20:42:56.746Z
+status: up
+code: 429
+responseTime: 56
+lastUpdated: 2025-01-31T22:41:21.209Z
 startTime: 2024-08-10T12:59:10.169Z
 generator: Upptime <https://github.com/upptime/upptime>
