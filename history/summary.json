@@ -55,15 +55,15 @@
     "url": "https://api.dikaardnt.com/maker/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.dikaardnt.com.ico",
     "slug": "quote-api",
-    "status": "up",
-    "uptime": "83.65%",
-    "uptimeDay": "23.37%",
-    "uptimeWeek": "13.64%",
+    "status": "down",
+    "uptime": "83.66%",
+    "uptimeDay": "24.03%",
+    "uptimeWeek": "13.73%",
     "uptimeMonth": "62.41%",
-    "uptimeYear": "83.65%",
+    "uptimeYear": "83.66%",
     "time": 116,
-    "timeDay": 67,
-    "timeWeek": 73,
+    "timeDay": 72,
+    "timeWeek": 74,
     "timeMonth": 77,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -105,8 +105,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 244,
-      "2024-08-22": 47
+      "2024-08-25": 244
     }
   },
   {
