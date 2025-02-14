@@ -14,7 +14,7 @@ sites:
         - 404
    - name: Quote API
      method: POST
-     url: https://api.dikaardnt.com/maker/quote
+     url: https://quote.kua.lat
      expectedStatusCodes:
         - 400
         - 429
@@ -29,7 +29,7 @@ sites:
 
 status-website:
    # Add your custom domain name, or remove the `cname` line if you don't have a domain
-   cname: status.dikaardnt.com
+   cname: status.kua.lat
    # baseUrl: /upptimeku
    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
    name: Upptimeku
