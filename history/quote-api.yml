@@ -1,7 +1,7 @@
-url: https://api.dikaardnt.com/maker/quote
-status: down
-code: 404
-responseTime: 18
-lastUpdated: 2025-02-09T06:43:38.551Z
+url: https://quote.kua.lat
+status: up
+code: 400
+responseTime: 6604
+lastUpdated: 2025-02-14T18:35:09.580Z
 startTime: 2024-08-10T12:59:10.169Z
 generator: Upptime <https://github.com/upptime/upptime>
