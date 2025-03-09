@@ -57,9 +57,9 @@
     "slug": "quote-api",
     "status": "up",
     "uptime": "88.37%",
-    "uptimeDay": "44.36%",
+    "uptimeDay": "47.23%",
     "uptimeWeek": "89.38%",
-    "uptimeMonth": "81.58%",
+    "uptimeMonth": "81.67%",
     "uptimeYear": "88.37%",
     "time": 156,
     "timeDay": 529,
@@ -163,19 +163,19 @@
     "url": "https://kua.lat/api/v2/health",
     "icon": "https://icons.duckduckgo.com/ip3/kua.lat.ico",
     "slug": "short-url-app",
-    "status": "down",
-    "uptime": "54.21%",
-    "uptimeDay": "54.21%",
-    "uptimeWeek": "54.21%",
-    "uptimeMonth": "54.21%",
-    "uptimeYear": "54.21%",
-    "time": 8322,
-    "timeDay": 8322,
-    "timeWeek": 8322,
-    "timeMonth": 8322,
-    "timeYear": 8322,
+    "status": "up",
+    "uptime": "52.48%",
+    "uptimeDay": "52.48%",
+    "uptimeWeek": "52.48%",
+    "uptimeMonth": "52.48%",
+    "uptimeYear": "52.48%",
+    "time": 8170,
+    "timeDay": 8170,
+    "timeWeek": 8170,
+    "timeMonth": 8170,
+    "timeYear": 8170,
     "dailyMinutesDown": {
-      "2025-03-09": 569
+      "2025-03-09": 610
     }
   }
 ]
