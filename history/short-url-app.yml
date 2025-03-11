@@ -1,7 +1,7 @@
 url: https://kua.lat/api/v2/health
-status: down
-code: 502
-responseTime: 15480
-lastUpdated: 2025-03-11T09:45:51.733Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2025-03-11T10:39:03.698Z
 startTime: 2025-03-09T01:11:33.716Z
 generator: Upptime <https://github.com/upptime/upptime>
