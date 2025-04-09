@@ -4,16 +4,16 @@
     "url": "https://api.dikaardnt.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.dikaardnt.com.ico",
     "slug": "rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "11.00%",
+    "uptimeDay": "12.59%",
     "uptimeWeek": "79.79%",
     "uptimeMonth": "95.35%",
     "uptimeYear": "96.87%",
     "time": 198,
-    "timeDay": 110,
-    "timeWeek": 148,
-    "timeMonth": 175,
+    "timeDay": 117,
+    "timeWeek": 151,
+    "timeMonth": 176,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-04-09": 857,
@@ -173,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/greyrat.dev.ico",
     "slug": "free-subdomain-service",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.69%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 172,
     "timeDay": 89,
     "timeWeek": 149,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-04-09": 33
+      "2025-04-09": 56
     }
   }
 ]
