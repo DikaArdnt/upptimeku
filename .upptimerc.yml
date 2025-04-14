@@ -31,7 +31,7 @@ sites:
 
 status-website:
    # Add your custom domain name, or remove the `cname` line if you don't have a domain
-   cname: status.kua.lat
+   cname: up.dikaardnt.com
    # baseUrl: /upptimeku
    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
    name: Upptimeku
