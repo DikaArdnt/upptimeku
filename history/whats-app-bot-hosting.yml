@@ -1,7 +1,7 @@
 url: https://hisoka.net/api
-status: up
-code: 200
-responseTime: 677
-lastUpdated: 2025-05-31T06:25:10.707Z
+status: down
+code: 403
+responseTime: 72
+lastUpdated: 2025-05-31T07:16:57.977Z
 startTime: 2024-10-27T03:30:56.228Z
 generator: Upptime <https://github.com/upptime/upptime>
