@@ -90,7 +90,7 @@
     "uptime": "82.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.22%",
+    "uptimeMonth": "22.28%",
     "uptimeYear": "82.79%",
     "time": 1493,
     "timeDay": 95,
@@ -208,19 +208,19 @@
     "url": "https://kua.lat/api",
     "icon": "https://icons.duckduckgo.com/ip3/kua.lat.ico",
     "slug": "shortener-url-and-bio-page-generator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1074,
-    "timeDay": 967,
-    "timeWeek": 1069,
-    "timeMonth": 1074,
-    "timeYear": 1074,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1149,
+    "timeDay": 1456,
+    "timeWeek": 1221,
+    "timeMonth": 1149,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 28
     }
   }
 ]
