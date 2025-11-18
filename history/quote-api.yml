@@ -1,7 +1,7 @@
 url: https://quote.kua.lat
-status: up
-code: 400
-responseTime: 373
-lastUpdated: 2025-11-17T23:19:28.955Z
+status: down
+code: 500
+responseTime: 291
+lastUpdated: 2025-11-18T11:37:38.143Z
 startTime: 2024-08-10T12:59:10.169Z
 generator: Upptime <https://github.com/upptime/upptime>
