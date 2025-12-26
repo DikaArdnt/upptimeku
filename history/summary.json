@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 213,
-    "timeDay": 305,
-    "timeWeek": 287,
-    "timeMonth": 246,
-    "timeYear": 229,
+    "timeDay": 268,
+    "timeWeek": 294,
+    "timeMonth": 249,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-09-03": 21,
       "2025-09-01": 29,
@@ -24,8 +24,7 @@
       "2025-01-29": 881,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 43,
-      "2024-12-26": 806
+      "2025-01-26": 43
     }
   },
   {
@@ -34,15 +33,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/quote.kua.lat.ico",
     "slug": "quote-api",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.89%",
     "time": 417,
-    "timeDay": 539,
-    "timeWeek": 479,
-    "timeMonth": 405,
+    "timeDay": 380,
+    "timeWeek": 477,
+    "timeMonth": 409,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2025-11-18": 197,
@@ -86,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hisoka.net.ico",
     "slug": "whats-app-bot-hosting",
     "status": "down",
-    "uptime": "88.28%",
+    "uptime": "88.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.61%",
-    "time": 1191,
-    "timeDay": 76,
-    "timeWeek": 114,
-    "timeMonth": 134,
+    "time": 1189,
+    "timeDay": 83,
+    "timeWeek": 99,
+    "timeMonth": 132,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-08-04": 613,
@@ -184,8 +183,7 @@
       "2025-01-08": 85,
       "2024-12-31": 34,
       "2024-12-29": 290,
-      "2024-12-27": 64,
-      "2024-12-26": 46
+      "2024-12-27": 64
     }
   },
   {
@@ -199,11 +197,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1194,
-    "timeDay": 410,
-    "timeWeek": 412,
-    "timeMonth": 456,
-    "timeYear": 1194,
+    "time": 1191,
+    "timeDay": 508,
+    "timeWeek": 442,
+    "timeMonth": 464,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-11-18": 151,
       "2025-10-26": 23,
