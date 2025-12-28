@@ -1,7 +1,7 @@
 url: https://kua.lat/api
-status: down
-code: 500
-responseTime: 442
-lastUpdated: 2025-12-28T09:22:50.399Z
+status: up
+code: 403
+responseTime: 297
+lastUpdated: 2025-12-28T09:39:26.302Z
 startTime: 2025-07-27T16:15:15.100Z
 generator: Upptime <https://github.com/upptime/upptime>
