@@ -32,18 +32,19 @@
     "url": "https://quote.kua.lat",
     "icon": "https://icons.duckduckgo.com/ip3/quote.kua.lat.ico",
     "slug": "quote-api",
-    "status": "up",
-    "uptime": "96.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.89%",
     "time": 417,
-    "timeDay": 327,
-    "timeWeek": 446,
-    "timeMonth": 404,
-    "timeYear": 497,
+    "timeDay": 290,
+    "timeWeek": 422,
+    "timeMonth": 399,
+    "timeYear": 496,
     "dailyMinutesDown": {
+      "2025-12-31": 0,
       "2025-11-18": 197,
       "2025-10-20": 58,
       "2025-10-03": 24,
@@ -75,8 +76,7 @@
       "2025-02-02": 1174,
       "2025-02-01": 1342,
       "2025-01-31": 1300,
-      "2025-01-30": 1228,
-      "2025-01-29": 41
+      "2025-01-30": 1228
     }
   },
   {
