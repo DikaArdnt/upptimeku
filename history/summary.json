@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 215,
-    "timeDay": 337,
-    "timeWeek": 225,
-    "timeMonth": 244,
+    "time": 216,
+    "timeDay": 237,
+    "timeWeek": 232,
+    "timeMonth": 237,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-09-03": 21,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "94.64%",
-    "time": 422,
-    "timeDay": 857,
-    "timeWeek": 418,
-    "timeMonth": 394,
-    "timeYear": 510,
+    "time": 458,
+    "timeDay": 468,
+    "timeWeek": 443,
+    "timeMonth": 388,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2026-01-01": 83,
       "2025-12-31": 1259,
@@ -72,8 +72,7 @@
       "2025-02-03": 1241,
       "2025-02-02": 1174,
       "2025-02-01": 1342,
-      "2025-01-31": 1300,
-      "2025-01-30": 1228
+      "2025-01-31": 1300
     }
   },
   {
@@ -82,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hisoka.net.ico",
     "slug": "whats-app-bot-hosting",
     "status": "down",
-    "uptime": "89.19%",
+    "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.98%",
-    "time": 1153,
-    "timeDay": 139,
-    "timeWeek": 175,
-    "timeMonth": 161,
-    "timeYear": 1128,
+    "time": 1150,
+    "timeDay": 71,
+    "timeWeek": 161,
+    "timeMonth": 160,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-08-04": 613,
       "2025-08-03": 1440,
@@ -165,8 +164,7 @@
       "2025-02-25": 46,
       "2025-02-18": 20,
       "2025-02-02": 44,
-      "2025-01-31": 148,
-      "2025-01-30": 139
+      "2025-01-31": 148
     }
   },
   {
@@ -180,11 +178,11 @@
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.60%",
-    "time": 1145,
-    "timeDay": 5367,
-    "timeWeek": 2074,
-    "timeMonth": 974,
-    "timeYear": 1145,
+    "time": 1143,
+    "timeDay": 5370,
+    "timeWeek": 2084,
+    "timeMonth": 965,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2026-01-29": 126,
       "2026-01-27": 21,
